@@ -4,8 +4,6 @@ The program will record all your facebook messages in a file in 2 weeks
 
 ## Local installation
 
-https://chromedriver.chromium.org/downloads
-
 ```bash
 git clone https://github.com/Enotlis/facebook_message.git
 cd facebook_message
